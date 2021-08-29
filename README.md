@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shalikar
-- 👀 I’m interested in developing web/mobile apps.
+- 👀 I’m interested in  developing scalable web/mobile apps.
 - 📫 How to reach me: shalikar@asu.edu
 
 <!---
